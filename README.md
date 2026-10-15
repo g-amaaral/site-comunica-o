@@ -1,2 +1,0 @@
-# site-comunica-o
-SITE DESENVOLVIDO PRA FECULT.
